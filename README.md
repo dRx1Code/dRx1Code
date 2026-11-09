@@ -41,17 +41,17 @@ Tenho interesse em desenvolvimento backend, arquitetura de software e criação 
 
 <div align="center">
 <a href="https://github.com/dRx1Code/expense-tracker-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=expense-tracker-python&theme=midnight-purple&hide_border=true" alt="expense-tracker-python"/>
+<img src="https://img.shields.io/badge/expense--tracker--python-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="expense-tracker-python"/>
 </a>
 <a href="https://github.com/dRx1Code/VistorIA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=VistorIA&theme=midnight-purple&hide_border=true" alt="VistorIA"/>
+<img src="https://img.shields.io/badge/VistorIA-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="VistorIA"/>
 </a>
 <br/>
 <a href="https://github.com/dRx1Code/site.Kora">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=site.Kora&theme=midnight-purple&hide_border=true" alt="site.Kora"/>
+<img src="https://img.shields.io/badge/site.Kora-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="site.Kora"/>
 </a>
 <a href="https://github.com/dRx1Code/CondoEng_Site.Att">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=CondoEng_Site.Att&theme=midnight-purple&hide_border=true" alt="CondoEng_Site.Att"/>
+<img src="https://img.shields.io/badge/CondoEng__Site.Att-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="CondoEng_Site.Att"/>
 </a>
 </div>
 
@@ -60,12 +60,12 @@ Tenho interesse em desenvolvimento backend, arquitetura de software e criação 
 ### `05. GITHUB ANALYTICS`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dRx1Code&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dRx1Code&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Top languages"/>
+<img src="profile-summary-card-output/solarized_dark/3-stats.svg" width="49%" alt="Stats"/>
+<img src="profile-summary-card-output/solarized_dark/2-most-commit-language.svg" width="49%" alt="Linguagens mais usadas"/>
 <br/>
 <img src="https://streak-stats.demolab.com?user=dRx1Code&theme=midnight-purple&hide_border=true&border_radius=10" alt="Streak"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dRx1Code&bg_color=09090B&color=C4B5FD&line=6D28D9&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&hide_title=true&radius=10" width="100%" alt="Activity graph"/>
+<img src="profile-summary-card-output/solarized_dark/4-productive-time.svg" width="70%" alt="Horário mais produtivo"/>
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dRx1Code/dRx1Code/output/github-snake-dark.svg"/>
