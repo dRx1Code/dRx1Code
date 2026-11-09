@@ -67,10 +67,6 @@ Tenho interesse em desenvolvimento backend, arquitetura de software e criação 
 <br/>
 <img src="profile-summary-card-output/solarized_dark/4-productive-time.svg" width="70%" alt="Horário mais produtivo"/>
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dRx1Code/dRx1Code/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/dRx1Code/dRx1Code/output/github-snake.svg" width="100%" alt="Snake"/>
-</picture>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
