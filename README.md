@@ -1,91 +1,102 @@
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   ADRYEL MORAIS                                      ║
-║   SOFTWARE DEVELOPMENT STUDENT                       ║
-║   Backend Development | Software Engineering         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:09090B,50:4C1D95,100:09090B&text=ADRYEL%20MORAIS&fontSize=45&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20BACKEND&descSize=14&descColor=C4B5FD&descAlignY=65&font=Fira%20Code" width="100%"/>
+</div>
 
-# `> whoami`
+<div align="center">
+
+![Profile](https://img.shields.io/badge/DEVELOPER%20IN%20PROGRESS-6D28D9?style=for-the-badge)
+![Location](https://img.shields.io/badge/BRASIL-18181B?style=for-the-badge)
+
+</div>
+
+## `01. ABOUT ME`
 
 Olá! Sou Adryel Morais, estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Software.
 
-Tenho interesse em desenvolvimento backend, arquitetura de software e criação de soluções tecnológicas para problemas reais.
+Tenho interesse em desenvolvimento backend, arquitetura de software e criação de soluções tecnológicas.
 
-Atualmente, estou desenvolvendo minhas habilidades em programação, APIs, bancos de dados e desenvolvimento de aplicações.
-
-**Hello! I'm Adryel Morais**, a Software Development student interested in backend development, software engineering and building practical solutions.
-
-I'm constantly learning, exploring new technologies and developing projects to improve my skills.
+Hello! I'm Adryel Morais, a Software Development student interested in backend development, software engineering and building practical solutions.
 
 ---
 
-## `> technologies --list`
+## `02. TECH STACK`
 
-**Languages & Development**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,express,sqlite,html,css,git,github,vscode&theme=dark" />
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
 ---
 
-## `> currently_learning`
+## `03. CURRENTLY LEARNING`
 
 - Backend development with Node.js.
-- RESTful API development.
-- HTTP protocols and client-server architecture.
+- RESTful APIs.
+- HTTP and client-server architecture.
 - Database modeling and SQL.
 - Software engineering principles.
-- Python programming and problem solving.
 
 ---
 
-## `> featured_projects`
+## `04. PROJECTS`
 
-| Project | Description | Technology |
-|---|---|---|
-| [Expense Tracker](https://github.com/dRx1Code/expense-tracker-python) | Personal expense management application | Python |
-| [VistorIA](https://github.com/dRx1Code/VistorIA) | AI-assisted property inspection project | HTML |
-| [Kora](https://github.com/dRx1Code/site.Kora) | Website project | CSS |
-| [CondoEng](https://github.com/dRx1Code/CondoEng_Site.Att) | Website project | CSS |
+<div align="center">
 
----
+<a href="https://github.com/dRx1Code/expense-tracker-python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=expense-tracker-python&theme=midnight-purple&hide_border=true" />
+</a>
 
-## `> github_stats`
+<a href="https://github.com/dRx1Code/VistorIA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=VistorIA&theme=midnight-purple&hide_border=true" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dRx1Code&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true)
+<a href="https://github.com/dRx1Code/site.Kora">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=site.Kora&theme=midnight-purple&hide_border=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dRx1Code&layout=compact&theme=chartreuse-dark&hide_border=true)
+<a href="https://github.com/dRx1Code/CondoEng_Site.Att">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dRx1Code&repo=CondoEng_Site.Att&theme=midnight-purple&hide_border=true" />
+</a>
 
----
-
-## `> connect_with_me`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryel-morais-b91891358/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adryel.morais_/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-dRx1Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dRx1Code)
+</div>
 
 ---
 
-```bash
-$ echo "Learning every day. Building with purpose."
+## `05. GITHUB ANALYTICS`
 
-> Process finished with exit code 0
-```
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dRx1Code&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dRx1Code&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## `06. CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adryel-morais-b91891358/">
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/adryel.morais_/">
+<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dRx1Code">
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**BUILD. LEARN. IMPROVE.**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:4C1D95,100:09090B&height=100&section=footer" width="100%"/>
+</div>
