@@ -63,7 +63,7 @@ Tenho interesse em desenvolvimento backend, arquitetura de software e criação 
 <img src="profile-summary-card-output/solarized_dark/3-stats.svg" width="49%" alt="Stats"/>
 <img src="profile-summary-card-output/solarized_dark/2-most-commit-language.svg" width="49%" alt="Linguagens mais usadas"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=dRx1Code&theme=midnight-purple&hide_border=true&border_radius=10" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=dRx1Code&theme=midnight-purple&locale=pt_BR&hide_border=true&border_radius=10&card_width=1000&card_height=250" alt="Streak"/>
 <br/>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dRx1Code/dRx1Code/output/github-snake-dark.svg"/>
